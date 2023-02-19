@@ -34,3 +34,9 @@ Step 10: Press CTRL+F in the same file and search for "core-y", navigate to seco
 
 Step 11: We have to create a config file for our kernel. First, we search for the current config, copy the config, typing “cp /boot/config-4.10.0-28-generic /workingdirectory” ![image](https://user-images.githubusercontent.com/125253097/219954387-67751917-f50f-4003-8951-f0610066c944.png)
 
+Step 12: We will now write the configuration file ![image](https://user-images.githubusercontent.com/125253097/219956980-a2fd8c95-e69b-4dcb-8b68-c1737f0ca757.png)
+Here we can see the config file is successfully created ![image](https://user-images.githubusercontent.com/125253097/219957031-81b0484a-ed40-478e-9f88-6de06c1a49b8.png)
+
+Step 13: We have to clean our processes in the kernel by typing “make clean -j4” , we now type “make -j4” to start building our kernel ![image](https://user-images.githubusercontent.com/125253097/219957293-b167b573-510d-4688-87a6-5115b19a4146.png)
+
+Step 14: 
