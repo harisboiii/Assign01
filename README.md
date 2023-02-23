@@ -40,3 +40,17 @@ Here we can see the config file is successfully created ![image](https://user-im
 Step 13: We have to clean our processes in the kernel by typing “make clean -j4” , we now type “make -j4” to start building our kernel ![image](https://user-images.githubusercontent.com/125253097/219957293-b167b573-510d-4688-87a6-5115b19a4146.png)
 
 Step 14: 
+![image](https://user-images.githubusercontent.com/125253097/220975266-ddab554b-de36-496a-8d12-3ee869bc6ce1.png)
+
+
+![image](https://user-images.githubusercontent.com/125253097/220977217-1cf87e2a-004a-47ea-978d-25fd50d1cde5.png)
+
+
+![image](https://user-images.githubusercontent.com/125253097/220977716-756078c4-b785-473a-b850-273687956b26.png)
+
+
+![image](https://user-images.githubusercontent.com/125253097/220979381-37c24588-b125-4ebd-8480-c5f2c3a19c52.png)
+
+
+![image](https://user-images.githubusercontent.com/125253097/220979527-cae9b946-8347-49f8-940a-0190ab9b69cd.png)
+
